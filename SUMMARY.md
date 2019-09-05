@@ -16,6 +16,7 @@ ____
 		* [Flexibilidad y facilidad](flexibilidad_y_facilidad.md)
 		* [Interacción, autonomía y variedad de recursos](interaccin_autonoma_y_variedad_de_recursos.md)
 		* [Trabajo por tareas](trabajo_por_tareas.md)
+
 ### EA_AICLESO_Sept18_1: REA y otros recursos de utilidad para AICLE
 * [BLOQUE II: REA y otros recursos de utilidad para AICLE](index0.md)
 	* [Estrategias de búsqueda de REA](estrategias_de_bsqueda_de_rea.md)
@@ -26,6 +27,7 @@ ____
 		* [Materiales y recursos específicos AICLE](materiales_y_recursos_especficos_aicle.md)
 		* [Recursos lingüísticos específicos de L2](recursos_lingsticos_especficos_de_l2.md)
 		* [Otros recursos y materiales auténticos](otros_recursos_y_materiales_autnticos.md)
+
 ### EA_AICLESO_Sept18_1: REA y la elaboración de materiales AICLE
 * [BLOQUE III:REA y la elaboración de materiales AICLE](index1.md)
 	* [Diseño de sesiones y unidades AICLE a partir de REA](diseo_de_sesiones_y_unidades_aicle_a_partir_de_rea.md)

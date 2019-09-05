@@ -4,6 +4,7 @@ test.pyc
 .DS_Store
 .vscode
 __pycache__
+__book
 
 # don't include the content of the following folders
 books_to_push/*
