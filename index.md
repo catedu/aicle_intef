@@ -5,6 +5,3 @@ A lo largo de este primer bloque de contenido se pretende **dejar claro tanto el
 Igualmente se aportará documentación, enlaces y bibliografía para orientar a los participantes que deseen ampliar lecturas y conocimiento sobre los temas, aunque entendemos que estos vídeos y lecturas no  formarán parte de las actividades del curso por el número de horas con que contamos.  
 
 ![Word cloud AICLE](img/REAaicle_14_07_16_B1_T1_Principios_v2_img1.png "AICLE word cloud")
-
-
-Guardar

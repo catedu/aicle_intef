@@ -2,13 +2,15 @@
 
 En esencia **el enfoque AICLE consiste en enseñar contenidos y lengua a la vez**, de una forma integrada, de manera que **se utiliza la lengua con el objetivo de aprender contenidos y viceversa**. Veamos algunas definiciones del término.
 
-El término CLIL (AICLE)1 fue utilizado por primera vez por David Marsh en 1994:
+El término CLIL (AICLE) [^1] fue utilizado por primera vez por David Marsh en 1994:
 
 > "CLIL refers to situations where subjects, or parts of subjects, are taught through a foreign language with dual-focused aims, namely the learning of content, and the simultaneous learning of a foreign language".
 > 
 > Marsh, 1994
 
 En el siguiente video puedes escuchar a D. Marsh explicando el nacimiento de la idea:
+
+https://www.youtube.com/watch?v=8BtqN6ea75E
 
 Una definición que expresa mejor el **modo entrelazado en que se integra la lengua y el contenido** así como el énfasis compartido en ambos aspectos en el AICLE es la enunciada a continuación:
 
@@ -20,7 +22,7 @@ Una definición que expresa mejor el **modo entrelazado en que se integra la len
 ![Qué es AICLE](img/AICLE_MARZO_BLOQUE_1.PNG "Qué es AICLE")
 
 
-El enfoque AICLE tiene semejanzas con otros enfoques de inmersión bilingüe y de enseñanza de lenguas, como es la enseñanza de lengua basada en contenidos (CBLT- _Content Based Language Teaching_) pero la diferencia reside, en que en el caso de CBLT el contenido se trabaja en la clase de la lengua extranjera objeto (L2) y el énfasis en realidad está en la lengua aunque se vale del contenido. En cambio, el enfoque AICLE implica que se enseña lengua y contenido a la vez y en la clase de contenido, compartiendo el énfasis tanto en la lengua como el contenido. Lo que implica la necesidad de utilizar una metodología que favorezca dicho aprendizaje dual. En cuanto a la diferencia con programas de inmersión bilingüe destaca la alternancia de código, es decir, el hecho de que en AICLE la lengua materna o L1 también se usa, así la L1 y la L2 se alternan en algunos momentos del aprendizaje2.
+El enfoque AICLE tiene semejanzas con otros enfoques de inmersión bilingüe y de enseñanza de lenguas, como es la enseñanza de lengua basada en contenidos (CBLT- _Content Based Language Teaching_) pero la diferencia reside, en que en el caso de CBLT el contenido se trabaja en la clase de la lengua extranjera objeto (L2) y el énfasis en realidad está en la lengua aunque se vale del contenido. En cambio, el enfoque AICLE implica que se enseña lengua y contenido a la vez y en la clase de contenido, compartiendo el énfasis tanto en la lengua como el contenido. Lo que implica la necesidad de utilizar una metodología que favorezca dicho aprendizaje dual. En cuanto a la diferencia con programas de inmersión bilingüe destaca la alternancia de código, es decir, el hecho de que en AICLE la lengua materna o L1 también se usa, así la L1 y la L2 se alternan en algunos momentos del aprendizaje [^2].
 
 Este cambio metodológico refleja el cambio de la sociedad en la que vivimos. David Marsh, en El Prólogo de _Echando Una Mano: 101 Técnicas De Andamiaje CLIL_ relata como “El «dime por qué» de generaciones anteriores ha sido sustituido por «enséñame cómo» de esta generación, formada por jóvenes que necesitan sentir la inmediatez de un propósito cuando aprenden. «Aprende cuando utilices y utiliza cuando aprendas» bien podría ser el mantra de las nuevas generaciones, y CLIL es particularmente apropiado para la forma de pensar de hoy en día”.
 
@@ -33,19 +35,17 @@ En este contexto son diversos los programas educativos que se llevan a cabo basa
 
 Todas estas variables configuran escenarios diferentes que influirán en el diseño de los programas a llevar a cabo en los centros. **Por ejemplo, si consideramos el caso del programa bilingüe en Andalucía**, las variables anteriores se configuran como sigue: el programa se imparte en toda la etapa en la que está aprobado. La L2 se usará un mínimo del 50 %, y las materias a impartir serán las comunes y están determinadas. En cuanto al nivel de interacción, dado que la L2 no se usa en el ámbito social (entorno, televisión, etc.), por lo general será un escenario micro aunque en algunos casos podría ser tipo medio.
 
-* * *
+---
 
-1Los términos AICLE y CLIL se refieren a la metodología en general y se utilizan para el Aprendizaje de Contenidos en Lenguas Extranjeras. Para facilitar la lectura de los contenidos no especificamos EMILE (francés) o DELE (español), etc.
+[1]: Los términos AICLE y CLIL se refieren a la metodología en general y se utilizan para el Aprendizaje de Contenidos en Lenguas Extranjeras. Para facilitar la lectura de los contenidos no especificamos EMILE (francés) o DELE (español), etc.
 
-2Lin, A. M. (2008). Code-Switching In the Classroom: Research Paradigms and Approaches. In K. A. King, & N. H. Hornberger, _Encyclopedia of Language and Education_ (pp. 273-286). New York: Springer.
+[2]: Lin, A. M. (2008). Code-Switching In the Classroom: Research Paradigms and Approaches. In K. A. King, & N. H. Hornberger, _Encyclopedia of Language and Education_ (pp. 273-286). New York: Springer.
 
-Guardar
-
-Guardar
+---
 
 # Para saber más
 
 *   Coyle, D., Hood, P. and Marsh, D. 2010, _CLIL. Content and Language Integrated Learning. _Cambridge: Cambridge University Press.
 *   Marsh, D. 1994. Bilingual Education & Content and Language Integrated Learning. International Association for Cross-cultural Communication, Language Teaching in the Member States of the European Union (Lingua) University of Sorbonne. Paris
 *   Fields, Donna Lee .2016_Echando una mano: 101 técnicas de andamiaje CLIL_, Editorial Octaedro, S.L.
-*   Fields, Donna Lee.2016 _Echando una mano: 101 técnicas de andamiaje CLIL_.[Material descargable](documento_material_descargable_elp_bloque_1_03_12018.pdf). Editorial Octaedro, S.L.
+*   Fields, Donna Lee.2016 _Echando una mano: 101 técnicas de andamiaje CLIL_.[Material descargable](http://formacion.intef.es/pluginfile.php/178685/mod_imscp/content/10/documento_material_descargable_elp_bloque_1_03_12018.pdf). Editorial Octaedro, S.L.
